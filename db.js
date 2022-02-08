@@ -1,0 +1,21 @@
+module.exports = {
+   city: [
+      {
+         name: "Tournai",
+      },
+      {
+         name: "Antoing",
+      },
+   ],
+   sectors: [
+      {
+         name: "Secteur 1",
+      },
+      {
+         name: "Secteur 2",
+      },
+      {
+         name: "Secteur 3",
+      },
+   ],
+};
