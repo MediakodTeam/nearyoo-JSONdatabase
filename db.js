@@ -1,12 +1,7 @@
+const { city } = require("./json/city.json");
+
 module.exports = {
-   city: [
-      {
-         name: "Tournai",
-      },
-      {
-         name: "Antoing",
-      },
-   ],
+   city,
    sectors: [
       {
          name: "Secteur 1",
