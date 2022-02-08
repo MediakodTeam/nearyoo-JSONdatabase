@@ -1,21 +1,28 @@
 {
    "city": [
-      {
-         "name": "Tournai"
-      },
-      {
-         "name": "Antoing"
-      }
+      { "name": "Tournai" },
+      { "name": "Antoing" },
+      { "name": "Bruyelle" },
+      { "name": "Hollain" },
+      { "name": "Blandain" },
+      { "name": "Kain" },
+      { "name": "Froyennes" },
+      { "name": "Lamain" },
+      { "name": "Andenne" },
+      { "name": "Mons" }
    ],
    "sectors": [
       {
-         "name": "Secteur 1"
+         "name": "Loisirs"
       },
       {
-         "name": "Secteur 2"
+         "name": "Commerce locaux"
       },
       {
-         "name": "Secteur 3"
+         "name": "Habitat"
+      },
+      {
+         "name": "Services"
       }
    ]
 }
