@@ -24,5 +24,19 @@
       {
          "name": "Services"
       }
+   ],
+   "societes": [
+      {
+         "name": "Sofiste"
+      },
+      {
+         "name": "AB Menuiserie"
+      },
+      {
+         "name": "Wooxie"
+      },
+      {
+         "name": "Mediakod"
+      }
    ]
 }
