@@ -12,31 +12,65 @@
       { "name": "Mons" }
    ],
    "sectors": [
-      {
-         "name": "Loisirs"
-      },
-      {
-         "name": "Commerce locaux"
-      },
-      {
-         "name": "Habitat"
-      },
-      {
-         "name": "Services"
-      }
+      { "name": "Loisirs" },
+      { "name": "Commerce locaux" },
+      { "name": "Habitat" },
+      { "name": "Services" }
    ],
    "societes": [
+      { "name": "Sofiste" },
+      { "name": "AB Menuiserie" },
+      { "name": "Wooxie" },
+      { "name": "Mediakod" }
+   ],
+   "requests": [
       {
-         "name": "Sofiste"
+         "id": 1,
+         "author": {
+            "avatarUrl": "https://randomuser.me/api/portraits/",
+            "name": "John Doe"
+         },
+         "date": "2018-01-01",
+         "city": "Tournai",
+         "content": "Pourriez-vous m'indiquer un bon chauffagiste dans la région de Tournai ?",
+         "answers": [
+            {
+               "author": {
+                  "avatarUrl": "https://randomuser.me/api/portraits/",
+                  "name": "Johan Jean"
+               },
+               "date": "2018-01-03",
+               "content": "Bonjour, je suis disponible pour vous proposer un chauffagiste dans la région de Tournai. Merci."
+            }
+         ]
       },
       {
-         "name": "AB Menuiserie"
-      },
-      {
-         "name": "Wooxie"
-      },
-      {
-         "name": "Mediakod"
+         "id": 2,
+         "author": {
+            "avatarUrl": "https://randomuser.me/api/portraits/",
+            "name": "Jean émar"
+         },
+         "date": "2020-03-01",
+         "city": "Lamain",
+         "content": "Je cherche un masseur pour mon dos.",
+         "answers": [
+            {
+               "author": {
+                  "avatarUrl": "https://randomuser.me/api/portraits/",
+                  "name": "Johan Jean"
+               },
+               "date": "2020-03-05",
+               "content": "Bonjour, je suis disponible pour vous proposer un chauffagiste dans la région de Tournai. Merci."
+            },
+            {
+               "author": {
+                  "avatarUrl": "https://randomuser.me/api/portraits/",
+                  "name": "Johan Jean"
+               },
+               "date": "2020-04-03",
+               "content": "Bonjour, je suis disponible pour vous proposer un chauffagiste dans la région de Tournai. Merci."
+            }
+         ]
       }
    ]
 }
