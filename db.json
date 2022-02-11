@@ -12,9 +12,108 @@
       { "name": "Mons" }
    ],
    "sectors": [
-      { "name": "Loisirs" },
-      { "name": "Commerce locaux" },
-      { "name": "Habitat" },
+      {
+         "name": "Loisirs",
+         "url": "#",
+         "quantity": "1",
+         "metiers": [
+            {
+               "name": "Alarmes",
+               "url": "#",
+               "quantity": "3",
+               "prestations": [
+                  {
+                     "name": "Assistance personnelle",
+                     "url": "#",
+                     "quantity": "10"
+                  }
+               ],
+               "name": "Architecte",
+               "url": "#",
+               "quantity": "3",
+               "prestations": [
+                  {
+                     "name": "Bioclimatic",
+                     "url": "#",
+                     "quantity": "6"
+                  },
+                  {
+                     "name": "Eco-construction",
+                     "url": "#",
+                     "quantity": "3"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "Commerce locaux",
+         "url": "#",
+         "quantity": "4",
+         "metiers": [
+            {
+               "name": "Alarmes",
+               "url": "#",
+               "quantity": "3",
+               "prestations": [
+                  {
+                     "name": "Assistance personnelle",
+                     "url": "#",
+                     "quantity": "10"
+                  }
+               ],
+               "name": "Architecte",
+               "url": "#",
+               "quantity": "3",
+               "prestations": [
+                  {
+                     "name": "Bioclimatic",
+                     "url": "#",
+                     "quantity": "6"
+                  },
+                  {
+                     "name": "Eco-construction",
+                     "url": "#",
+                     "quantity": "3"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "Habitat",
+         "url": "#",
+         "quantity": "1",
+         "metiers": [
+            {
+               "name": "Alarmes",
+               "url": "#",
+               "quantity": "3",
+               "prestations": [
+                  {
+                     "name": "Assistance personnelle",
+                     "url": "#",
+                     "quantity": "10"
+                  }
+               ],
+               "name": "Architecte",
+               "url": "#",
+               "quantity": "3",
+               "prestations": [
+                  {
+                     "name": "Bioclimatic",
+                     "url": "#",
+                     "quantity": "6"
+                  },
+                  {
+                     "name": "Eco-construction",
+                     "url": "#",
+                     "quantity": "3"
+                  }
+               ]
+            }
+         ]
+      },
       { "name": "Services" }
    ],
    "societes": [
