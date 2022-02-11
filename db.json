@@ -16,12 +16,12 @@
          "name": "Loisirs",
          "url": "#",
          "quantity": "1",
-         "metiers": [
+         "options": [
             {
                "name": "Alarmes",
                "url": "#",
                "quantity": "3",
-               "prestations": [
+               "options": [
                   {
                      "name": "Assistance personnelle",
                      "url": "#",
@@ -31,7 +31,7 @@
                "name": "Architecte",
                "url": "#",
                "quantity": "3",
-               "prestations": [
+               "options": [
                   {
                      "name": "Bioclimatic",
                      "url": "#",
@@ -50,12 +50,12 @@
          "name": "Commerce locaux",
          "url": "#",
          "quantity": "4",
-         "metiers": [
+         "options": [
             {
                "name": "Alarmes",
                "url": "#",
                "quantity": "3",
-               "prestations": [
+               "options": [
                   {
                      "name": "Assistance personnelle",
                      "url": "#",
@@ -65,7 +65,7 @@
                "name": "Architecte",
                "url": "#",
                "quantity": "3",
-               "prestations": [
+               "options": [
                   {
                      "name": "Bioclimatic",
                      "url": "#",
@@ -84,12 +84,12 @@
          "name": "Habitat",
          "url": "#",
          "quantity": "1",
-         "metiers": [
+         "options": [
             {
                "name": "Alarmes",
                "url": "#",
                "quantity": "3",
-               "prestations": [
+               "options": [
                   {
                      "name": "Assistance personnelle",
                      "url": "#",
@@ -99,7 +99,7 @@
                "name": "Architecte",
                "url": "#",
                "quantity": "3",
-               "prestations": [
+               "options": [
                   {
                      "name": "Bioclimatic",
                      "url": "#",
