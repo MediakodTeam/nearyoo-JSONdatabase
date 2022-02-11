@@ -27,7 +27,9 @@
                      "url": "#",
                      "quantity": "10"
                   }
-               ],
+               ]
+            },
+            {
                "name": "Architecte",
                "url": "#",
                "quantity": "3",
@@ -61,7 +63,9 @@
                      "url": "#",
                      "quantity": "10"
                   }
-               ],
+               ]
+            },
+            {
                "name": "Architecte",
                "url": "#",
                "quantity": "3",
@@ -95,7 +99,9 @@
                      "url": "#",
                      "quantity": "10"
                   }
-               ],
+               ]
+            },
+            {
                "name": "Architecte",
                "url": "#",
                "quantity": "3",
