@@ -33,7 +33,7 @@
          "date": "2018-01-01",
          "city": "Tournai",
          "content": "Pourriez-vous m'indiquer un bon chauffagiste dans la région de Tournai ?",
-         "answers": [
+         "replies": [
             {
                "author": {
                   "avatarUrl": "https://randomuser.me/api/portraits/",
@@ -53,7 +53,7 @@
          "date": "2020-03-01",
          "city": "Lamain",
          "content": "Je cherche un masseur pour mon dos.",
-         "answers": [
+         "replies": [
             {
                "author": {
                   "avatarUrl": "https://randomuser.me/api/portraits/",
@@ -71,6 +71,43 @@
                "content": "Bonjour, je suis disponible pour vous proposer un chauffagiste dans la région de Tournai. Merci."
             }
          ]
+      }
+   ],
+   "news": [
+      {
+         "image": "https://source.unsplash.com/random/",
+         "title": "Edition limitée Mirella",
+         "summary": "Lorem ipsum dolo site amet, consepo.",
+         "href": "#",
+         "author": "Attitudes Store"
+      },
+      {
+         "image": "https://source.unsplash.com/random/",
+         "title": "Edition limitée Mirella 2",
+         "summary": "Lorem ipsum dolo site amet, consepo.",
+         "href": "#",
+         "author": "Attitudes Store"
+      },
+      {
+         "image": "https://source.unsplash.com/random/",
+         "title": "Edition limitée Mirella 3",
+         "summary": "Lorem ipsum dolo site amet, consepo.",
+         "href": "#",
+         "author": "Attitudes Store"
+      },
+      {
+         "image": "https://source.unsplash.com/random/",
+         "title": "Edition limitée Mirella 3",
+         "summary": "Lorem ipsum dolo site amet, consepo.",
+         "href": "#",
+         "author": "Attitudes Store"
+      },
+      {
+         "image": "https://source.unsplash.com/random/",
+         "title": "Edition limitée Mirella 3",
+         "summary": "Lorem ipsum dolo site amet, consepo.",
+         "href": "#",
+         "author": "Attitudes Store"
       }
    ]
 }
